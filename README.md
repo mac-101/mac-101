@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**mac-101/mac-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Macanthony Charles 👋
 
-Here are some ideas to get you started:
+I'm a developer who enjoys building useful web applications and solving problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+- 💻 Front-End Developer and Python/Django Developer
+- 🌱 Continuously learning and improving my full-stack development skills
+- 🛠️ Building practical projects and exploring new technologies
+- 🤝 Interested in open-source collaboration and connecting with other developers
+
+### Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Python, Django
+- **Tools:** Git, GitHub, REST APIs
+
+### Featured Projects
+
+- **Portfolio CMS** — A platform for managing portfolio content and projects without manually editing the codebase.
+- **School Management System** — A project focused on organizing school-related administrative tasks.
+- **EcoNote** — A note-taking application with voice-to-text functionality.
+
+### Let's Connect
+
+- 🌐 **Portfolio:** [View My Portfolio](https://macanthonycharles.vercel.app)
+- 💻 **GitHub:** [Explore My Repositories](https://github.com/mac-101)
+
+---
+
+*Always learning, building, and improving.*
